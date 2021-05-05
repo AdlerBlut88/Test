@@ -4,5 +4,9 @@
         {"id":"2","RUT":"202252932","Dia":"Jueves","Hora": "18"},
         {"id":"3","RUT":"134052112","Dia":"Miercoles","Hora": "21"},
         {"id":"4","RUT":"124035552","Dia":"Domingo","Hora": "10"}
+      ],
+ "Cantidad": 
+      [
+        {"Visitas":"4"}
       ]
 }
